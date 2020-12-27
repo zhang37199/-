@@ -10,4 +10,4 @@
 
 | 支付宝 |
 | :------: |
-| !alipay.jpg
+| ![alipay](alipay.jpg)
