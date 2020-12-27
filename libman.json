@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "vue@2.6.9",
+      "destination": "wwwroot/lib/vue/",
+      "files": [
+        "vue.min.js",
+        "vue.js"
+      ]
+    },
+    {
+      "library": "element-ui@2.13.2",
+      "destination": "wwwroot/lib/element-ui/"
+    },
+    {
+      "library": "axios@0.21.0",
+      "destination": "wwwroot/lib/axios/",
+      "files": [
+        "axios.min.js",
+        "axios.js"
+      ]
+    },
+    {
+      "library": "video.js@7.11.1",
+      "destination": "wwwroot/lib/video.js/"
+    }
+  ]
+}
